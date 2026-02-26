@@ -1,11 +1,10 @@
 My name is Padala Abhinay.
 I am currently pursuing B.Tech in Computer Science.
-Passionate about Python, Django, and Machine Learning  
+Passionate about Python and Machine Learning  
 Interested in Backend Development and AI.
 
 Skills:
 - Python
-- Django
 - Flask
 - Git & GitHub
 - TensorFlow
