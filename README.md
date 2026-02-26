@@ -6,7 +6,7 @@ Interested in Backend Development and AI.
 Skills:
 - Python
 - Git & GitHub
-- Frontend and backend
+- Frontend and backend developer
 
 Projects
 - Plant Disease Detection System
