@@ -5,9 +5,8 @@ Interested in Backend Development and AI.
 
 Skills:
 - Python
-- Flask
 - Git & GitHub
-- TensorFlow
+- Frontend and backend
 
 Projects
 - Plant Disease Detection System
