@@ -8,7 +8,6 @@ Skills:
 - Django
 - Flask
 - Git & GitHub
-- MySQL
 - TensorFlow
 
 Projects
