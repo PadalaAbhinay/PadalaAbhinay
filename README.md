@@ -1,16 +1,22 @@
-## Hi there 👋
+My name is Padala Abhinay.
+I am currently pursuing B.Tech in Computer Science.
+Passionate about Python, Django, and Machine Learning  
+Interested in Backend Development and AI.
 
-<!--
-**PadalaAbhinay/PadalaAbhinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+- Python
+- Django
+- Flask
+- Git & GitHub
+- MySQL
+- TensorFlow
 
-Here are some ideas to get you started:
+Projects
+- Plant Disease Detection System
+- E-commerce Web Application
+-CNN_Classification
+-Weather_Dashboard
+-Tkinter_Calculator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Career Goal:
+I am looking for an opportunity to apply my technical skills in a real-world environment and grow as a software developer.
