@@ -11,9 +11,9 @@ Skills:
 Projects
 - Plant Disease Detection System
 - E-commerce Web Application
--CNN_Classification
--Weather_Dashboard
--Tkinter_Calculator
+- CNN_Classification
+- Weather_Dashboard
+- Tkinter_Calculator
 
 Career Goal:
 I am looking for an opportunity to apply my technical skills in a real-world environment and grow as a software developer.
