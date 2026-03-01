@@ -4,6 +4,8 @@ Passionate about Python and Machine Learning
 Interested in Backend Development and AI.
 
 Skills:
+- Djano
+- Mernstack
 - Python
 - Git & GitHub
 - Frontend and backend developer
