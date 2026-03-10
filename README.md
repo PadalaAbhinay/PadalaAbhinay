@@ -5,6 +5,7 @@ Interested in Backend Development and AI.
 
 Skills:
 - Djano
+- JavaScript
 - Mernstack
 - Python
 - Git & GitHub
